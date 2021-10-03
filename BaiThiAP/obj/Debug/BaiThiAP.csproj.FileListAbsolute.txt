@@ -1,0 +1,6 @@
+C:\Users\AD\RiderProjects\BaithiAP\BaiThiAP\obj\Debug\BaiThiAP.csprojAssemblyReference.cache
+C:\Users\AD\RiderProjects\BaithiAP\BaiThiAP\obj\Debug\BaiThiAP.csproj.CoreCompileInputs.cache
+C:\Users\AD\RiderProjects\BaithiAP\BaiThiAP\bin\Debug\BaiThiAP.exe
+C:\Users\AD\RiderProjects\BaithiAP\BaiThiAP\bin\Debug\BaiThiAP.pdb
+C:\Users\AD\RiderProjects\BaithiAP\BaiThiAP\obj\Debug\BaiThiAP.exe
+C:\Users\AD\RiderProjects\BaithiAP\BaiThiAP\obj\Debug\BaiThiAP.pdb

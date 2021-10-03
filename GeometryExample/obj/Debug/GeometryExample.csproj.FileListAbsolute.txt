@@ -1,0 +1,6 @@
+C:\Users\AD\RiderProjects\BaithiAP\GeometryExample\bin\Debug\GeometryExample.exe
+C:\Users\AD\RiderProjects\BaithiAP\GeometryExample\bin\Debug\GeometryExample.pdb
+C:\Users\AD\RiderProjects\BaithiAP\GeometryExample\obj\Debug\GeometryExample.csprojAssemblyReference.cache
+C:\Users\AD\RiderProjects\BaithiAP\GeometryExample\obj\Debug\GeometryExample.csproj.CoreCompileInputs.cache
+C:\Users\AD\RiderProjects\BaithiAP\GeometryExample\obj\Debug\GeometryExample.exe
+C:\Users\AD\RiderProjects\BaithiAP\GeometryExample\obj\Debug\GeometryExample.pdb

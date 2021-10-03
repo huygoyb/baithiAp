@@ -1,0 +1,6 @@
+C:\Users\AD\RiderProjects\BaithiAP\InheritanceAndPolymorphism\obj\Debug\InheritanceAndPolymorphism.csprojAssemblyReference.cache
+C:\Users\AD\RiderProjects\BaithiAP\InheritanceAndPolymorphism\obj\Debug\InheritanceAndPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\AD\RiderProjects\BaithiAP\InheritanceAndPolymorphism\bin\Debug\InheritanceAndPolymorphism.exe
+C:\Users\AD\RiderProjects\BaithiAP\InheritanceAndPolymorphism\bin\Debug\InheritanceAndPolymorphism.pdb
+C:\Users\AD\RiderProjects\BaithiAP\InheritanceAndPolymorphism\obj\Debug\InheritanceAndPolymorphism.exe
+C:\Users\AD\RiderProjects\BaithiAP\InheritanceAndPolymorphism\obj\Debug\InheritanceAndPolymorphism.pdb
